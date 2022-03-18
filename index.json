@@ -1,0 +1,30 @@
+{
+  "bracketSpacing": true,
+  "jsxBracketSameLine": true,
+  "printWidth": 80,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "tabWidth": 2,
+  "useTabs": false,
+  "react/jsx-max-props-per-line": [1, { "when": "always" }],
+  "arrowParens": "always",
+  "bracketSameLine": true,
+  "embeddedLanguageFormatting": "auto",
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "jsxSingleQuote": true,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "vueIndentScriptAndStyle": false,
+  "overrides": [
+    {
+      "files": "*model.js",
+      "options": {
+        "printWidth": 120
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "name": "@sachinaaglave/prettierrc",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sachinaaglave/prettierrc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sachinaaglave/prettierrc/issues"
+  },
+  "homepage": "https://github.com/sachinaaglave/prettierrc#readme"
+}
